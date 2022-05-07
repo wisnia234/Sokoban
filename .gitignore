@@ -3,3 +3,12 @@
 ################################################################################
 
 /.vs
+/Sokoban/.vs/Sokoban/v16
+/Sokoban/LogikaGry/bin/Debug
+/Sokoban/LogikaGry/obj/Debug
+/Sokoban/Sokoban/bin/Debug
+/Sokoban/SokobanOkienkowy/obj/Debug
+/Sokoban/SokobanTest/bin/Debug
+/Sokoban/SokobanTest/obj/Debug
+/Sokoban/SokobanTest/obj/Release
+*.exe

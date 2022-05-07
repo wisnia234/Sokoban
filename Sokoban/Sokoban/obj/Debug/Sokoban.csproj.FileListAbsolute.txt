@@ -1,0 +1,10 @@
+D:\Korepetycje\Osoby\MichałWrocław2\C#\Sokoban\Sokoban\obj\Debug\Sokoban.csproj.AssemblyReference.cache
+D:\Korepetycje\Osoby\MichałWrocław2\C#\Sokoban\Sokoban\obj\Debug\Sokoban.csproj.CoreCompileInputs.cache
+D:\Korepetycje\Osoby\MichałWrocław2\C#\Sokoban\Sokoban\bin\Debug\Sokoban.exe.config
+D:\Korepetycje\Osoby\MichałWrocław2\C#\Sokoban\Sokoban\bin\Debug\Sokoban.exe
+D:\Korepetycje\Osoby\MichałWrocław2\C#\Sokoban\Sokoban\bin\Debug\Sokoban.pdb
+D:\Korepetycje\Osoby\MichałWrocław2\C#\Sokoban\Sokoban\obj\Debug\Sokoban.exe
+D:\Korepetycje\Osoby\MichałWrocław2\C#\Sokoban\Sokoban\obj\Debug\Sokoban.pdb
+D:\Korepetycje\Osoby\MichałWrocław2\C#\Sokoban\Sokoban\bin\Debug\LogikaGry.dll
+D:\Korepetycje\Osoby\MichałWrocław2\C#\Sokoban\Sokoban\bin\Debug\LogikaGry.pdb
+D:\Korepetycje\Osoby\MichałWrocław2\C#\Sokoban\Sokoban\obj\Debug\Sokoban.csproj.CopyComplete
